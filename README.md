@@ -1,7 +1,7 @@
 
 # [Candy Crush]
 
-- Demo: http://127.0.0.1:5500/candy-crush-master/index.html
+- Demo: https://vishnu-kumarkr.github.io/Candy-Crush/
 
 In this Game, I will learn to create Candy Crush using HTML, CSS, and JavaScript. I will learn to swap candy pieces, crush candy pieces, and generate new ones.
 
